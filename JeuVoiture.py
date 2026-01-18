@@ -2,7 +2,6 @@ import pygame
 import random
 import sys
 
-# Initialisation de Pygame
 pygame.init()
 
 # Constantes
@@ -251,3 +250,4 @@ def ecran_fin(score):
 if __name__ == "__main__":
 
     jeu()
+
