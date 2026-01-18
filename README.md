@@ -1,6 +1,7 @@
-Un jeu de course inspiré de la finale Sénégal-Maroc ! 
+Un jeu de course inspiré de la finale Sénégal-Maroc. 
 Ce jeu de course met en scène la rivalité sportive entre le Sénégal et le Maroc. 
-Plus vous évitez de voitures, plus votre score augmente et plus le jeu devient difficile !
+Plus vous évitez de voitures, plus votre score augmente et plus le jeu devient difficile.
+
 --> Comment jouer ?
 - Utilisez les flèches gauche/droite pour déplacer la voiture sénégalaise
 - Evitez les voitures marocaines qui descendent
