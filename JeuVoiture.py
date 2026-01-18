@@ -204,7 +204,7 @@ def jeu():
         
         # Affichage du score
         font = pygame.font.Font(None, 48)
-        texte_score = font.render(f"🇸🇳 Score: {score}", True, BLANC)
+        texte_score = font.render(f"Score: {score}", True, BLANC)
         ecran.blit(texte_score, (10, 10))
         
         # Message d'encouragement
@@ -249,4 +249,5 @@ def ecran_fin(score):
 
 # Lancement du jeu
 if __name__ == "__main__":
+
     jeu()
